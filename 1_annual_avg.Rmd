@@ -1,0 +1,12 @@
+---
+title: "Estimating Annual Averages from Mobile Monitoring Locations"
+output: html_document
+---
+
+```{r}
+gitcreds::gitcreds_set()
+```
+
+
+
+ 
